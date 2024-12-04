@@ -1,6 +1,6 @@
 HTML Advanced Project
 
-![Project Image](./images/project-image.png)
+![Project Image](https://github.com/YanielRamos/holbertonschool-web-development/blob/main/html_advanced/htmlcover.jpg)
 
 This is a simple webpage I created as part of an assignment. The webpage is built using **HTML** and demonstrates basic structure, styling, and interaction elements. The project focuses on learning the fundamentals of web development and creating a visually appealing and functional webpage.
 
