@@ -1,1 +1,1 @@
-# holbertonschool-web-development
+In this project we will create a html page from scratch
